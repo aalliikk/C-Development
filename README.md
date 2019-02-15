@@ -1,2 +1,2 @@
-# C-Development
+# C++ Development
 A game written in C++
